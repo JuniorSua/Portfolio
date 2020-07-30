@@ -1,4 +1,4 @@
-# Portfolio
+# Junior Suarez - Portfolio
 iOS Developer emphasizing in Swift and Objective-C with extensive training in Core Data, CloudKit, MapKit, HealthKit, Firebase and many other frameworks. I enjoy playing basketball, keeping up with technology and learning new skills.
 
 # Credential
